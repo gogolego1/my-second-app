@@ -1,2 +1,5 @@
 streamlit
 pdfplumber
+pandas
+plotly
+pypdf
